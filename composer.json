@@ -1,5 +1,5 @@
 {
-    "name": "gevman/azure-thumbnails",
+    "name": "gevman/azure-thumbnails-generator",
     "description": "Create image thumbnails with help of Microsoft Artificial Intelligence, and show what needed!",
     "type": "project",
     "license": "MIT",
