@@ -24,9 +24,10 @@ composer require gevman/azure-thumbnails
 - `$quality` - thumbnail quality
 
 
-##### show(\[int $quality = 99\])
+##### show(\[int $quality = 99\]\[, string $contentType = 'image/jpeg'\])
 ###### Show thumbnail
 - `$quality` - thumbnail quality
+- `$contentType` - Content-Type header
 
 
 ### Example of usage
