@@ -2,7 +2,7 @@
 
 Create image thumbnails with help of Microsoft Artificial Intelligence, and show what needed!
 
-![gevman/azure-thumbnails](http://i.imgur.com/KCaoNHf.png)
+![gevman/azure-thumbnails](http://i.imgur.com/Y2hI8D8.png)
 
 ## Installation (using composer)
 
@@ -44,5 +44,5 @@ $thumb = $generator->thumbnail('/full/path/to/original.jpg', 1000, 500);
 $thumb->saveAs('/full/path/to/thumbnail.jpg', 100);
 
 //will save show thumbnail
-$thumb->saveAs();
+$thumb->show();
 ```
