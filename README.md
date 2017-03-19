@@ -43,6 +43,6 @@ $thumb = $generator->thumbnail('/full/path/to/original.jpg', 1000, 500);
 //will save thumbnail to specified path
 $thumb->saveAs('/full/path/to/thumbnail.jpg', 100);
 
-//will save show thumbnail
+//will show thumbnail
 $thumb->show();
 ```
