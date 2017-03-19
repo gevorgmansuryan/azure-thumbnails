@@ -35,10 +35,13 @@ class Thumbnail
 	 * Show thumbnail
 	 *
 	 * @param int $quality
+	 * @param string $contentType
 	 */
-	public function show($quality = 99)
+	public function show($quality = 99, $contentType = 'image/jpeg')
 	{
-		header('Content-Type: image/jpeg');
+		if ($contentType) {
+			header("Content-Type: {$contentType}");
+		}
 		imagejpeg($this->thumbnail, null, $quality);
 	}
 
