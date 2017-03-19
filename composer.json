@@ -1,0 +1,21 @@
+{
+    "name": "gevman/azure-thumbnails",
+    "description": "Create image thumbnails with help of Microsoft Artificial Intelligence, and show what needed!",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Gevorg Mansuryan",
+            "email": "gevorgmansuryan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gevman\\Thumbnails\\": "src/"
+        }
+    }
+}
