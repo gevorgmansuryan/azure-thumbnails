@@ -13,7 +13,7 @@
             "name": "Gevorg Mansuryan",
             "email": "gevorgmansuryan@gmail.com"
         }
-    ]
+    ],
     "autoload": {
         "psr-4": {
             "Gevman\\Thumbnails\\": "src/"
