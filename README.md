@@ -1,9 +1,7 @@
 # Azure Thumbnails
 
 [![Latest Stable Version](https://poser.pugx.org/gevman/azure-thumbnails/v/stable?format=flat-square)](https://packagist.org/packages/gevman/azure-thumbnails)
-
 [![Latest Unstable Version](https://poser.pugx.org/gevman/azure-thumbnails/v/unstable?format=flat-square)](https://packagist.org/packages/gevman/azure-thumbnails)
-
 [![License](https://poser.pugx.org/gevman/azure-thumbnails/license?format=flat-square)](https://packagist.org/packages/gevman/azure-thumbnails)
 
 Create image thumbnails with help of Microsoft Artificial Intelligence, and show what needed!
