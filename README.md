@@ -1,5 +1,11 @@
 # Azure Thumbnails
 
+[![Latest Stable Version](https://poser.pugx.org/gevman/azure-thumbnails/v/stable?format=flat-square)](https://packagist.org/packages/gevman/azure-thumbnails)
+
+[![Latest Unstable Version](https://poser.pugx.org/gevman/azure-thumbnails/v/unstable?format=flat-square)](https://packagist.org/packages/gevman/azure-thumbnails)
+
+[![License](https://poser.pugx.org/gevman/azure-thumbnails/license?format=flat-square)](https://packagist.org/packages/gevman/azure-thumbnails)
+
 Create image thumbnails with help of Microsoft Artificial Intelligence, and show what needed!
 
 A thumbnail is a small representation of a full-size image. Varied devices such as phones, tablets, and PCs create a need for different user experience (UX) layouts and thumbnail sizes. Using smart cropping, this Computer Vision API feature helps solve the problem.
